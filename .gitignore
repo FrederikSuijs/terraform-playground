@@ -8,6 +8,9 @@
 # .tflock files
 .terraform.lock.*
 
+# .credential files
+.credentials*
+
 # Crash log files
 crash.log
 
